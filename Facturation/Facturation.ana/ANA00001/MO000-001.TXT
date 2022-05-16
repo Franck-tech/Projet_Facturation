@@ -1,0 +1,5 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+Principale		NFI		nouveau fichier
+Secondaire		NFI		nouveau fichier
+Intermédiaire		NFI		nouveau fichier
+Connexion à la base de donnée SQLite du projet Facturation		CNX+		

@@ -1,0 +1,4 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Secondaire		TAR	264	nouvelle taille enregistrement : 264
+Secondaire	Tel	RUB+		Tel est une nouvelle rubrique
+Secondaire	Type	RUB+		Type est une nouvelle rubrique

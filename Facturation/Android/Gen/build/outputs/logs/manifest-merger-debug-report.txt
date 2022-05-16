@@ -1,0 +1,176 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:1-2232
+INJECTED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:1-2232
+INJECTED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:1-2232
+INJECTED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:1-2232
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Franck\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\3440f29109a7145a0a86bc618d646bfb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Franck\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\be716af0b49be25bcd653928fddb4364\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Franck\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\aefe2fd1fc32024d25cae2d203d14377\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Franck\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\4dcf6757db10bade9775251ce5900e36\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Franck\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\e792fba00cd2a81d128ce4f50163e71e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Franck\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5e435a806822bc8cb64ad2406a7c9ed9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Franck\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\1f7506a124306ba69118e8d956705fa6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Franck\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\7c105638ef2f12009c27ac363a4feec7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Franck\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\eec0df0817ec7583aeb2b61af66b751c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Franck\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\683ead0019267816d7f3246557c8fb85\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Franck\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ebca6ca523408de4cf2467beb54139c4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Franck\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\1040cf88384236457d11b0f485fd5c8e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Franck\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ceb09eed27195052bd2406731b8d7a5b\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:1-2232
+INJECTED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:1-2232
+INJECTED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:1-2232
+	package
+		ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:70-103
+		INJECTED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml
+		INJECTED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:104-133
+		INJECTED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml
+		INJECTED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:134-158
+		INJECTED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml
+		INJECTED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml
+	android:installLocation
+		ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:159-189
+application
+ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:190-1755
+	android:label
+		ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:265-297
+	android:resizeableActivity
+		ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:368-401
+	android:largeHeap
+		ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:342-366
+	android:icon
+		ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:298-341
+	android:name
+		ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:203-264
+activity#com.TechBox.facturation.wdgen.GWDPFacturation$WDLanceur
+ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:402-860
+	android:screenOrientation
+		ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:665-707
+	android:label
+		ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:460-492
+	android:configChanges
+		ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:562-664
+	android:theme
+		ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:493-561
+	android:name
+		ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:412-459
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:708-849
+action#android.intent.action.MAIN
+ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:723-774
+	android:name
+		ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:731-772
+category#android.intent.category.LAUNCHER
+ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:774-833
+	android:name
+		ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:784-831
+activity#com.TechBox.facturation.wdgen.GWDFMenu$WDActiviteFenetre
+ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:860-1139
+	android:screenOrientation
+		ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:1059-1101
+	android:hardwareAccelerated
+		ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:1102-1137
+	android:configChanges
+		ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:919-1021
+	android:theme
+		ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:1022-1058
+	android:name
+		ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:870-918
+activity#fr.pcsoft.wdjava.ui.activite.WDActivite$BlankActivity
+ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:1139-1327
+	xmlns:android
+		ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:1149-1207
+	android:theme
+		ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:1277-1325
+	android:name
+		ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:1208-1276
+activity#fr.pcsoft.wdjava.core.erreur.report.WDErrorReportActivity
+ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:1327-1527
+	xmlns:android
+		ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:1337-1395
+	android:theme
+		ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:1469-1525
+	android:name
+		ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:1396-1468
+service#fr.pcsoft.wdjava.core.service.WDServiceLocal
+ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:1527-1597
+	android:name
+		ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:1536-1595
+meta-data#fr.pcsoft.first_window_name
+ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:1597-1673
+	android:value
+		ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:1651-1671
+	android:name
+		ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:1608-1650
+meta-data#fr.pcsoft.multidex
+ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:1673-1741
+	android:value
+		ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:1718-1739
+	android:name
+		ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:1684-1717
+uses-sdk
+ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:1755-1823
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Franck\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\3440f29109a7145a0a86bc618d646bfb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Franck\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\3440f29109a7145a0a86bc618d646bfb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Franck\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\be716af0b49be25bcd653928fddb4364\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Franck\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\be716af0b49be25bcd653928fddb4364\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Franck\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\aefe2fd1fc32024d25cae2d203d14377\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Franck\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\aefe2fd1fc32024d25cae2d203d14377\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Franck\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\4dcf6757db10bade9775251ce5900e36\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Franck\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\4dcf6757db10bade9775251ce5900e36\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Franck\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\e792fba00cd2a81d128ce4f50163e71e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Franck\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\e792fba00cd2a81d128ce4f50163e71e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Franck\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5e435a806822bc8cb64ad2406a7c9ed9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Franck\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5e435a806822bc8cb64ad2406a7c9ed9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Franck\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\1f7506a124306ba69118e8d956705fa6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Franck\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\1f7506a124306ba69118e8d956705fa6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Franck\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\7c105638ef2f12009c27ac363a4feec7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Franck\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\7c105638ef2f12009c27ac363a4feec7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Franck\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\eec0df0817ec7583aeb2b61af66b751c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Franck\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\eec0df0817ec7583aeb2b61af66b751c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Franck\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\683ead0019267816d7f3246557c8fb85\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Franck\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\683ead0019267816d7f3246557c8fb85\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Franck\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ebca6ca523408de4cf2467beb54139c4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Franck\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ebca6ca523408de4cf2467beb54139c4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Franck\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\1040cf88384236457d11b0f485fd5c8e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Franck\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\1040cf88384236457d11b0f485fd5c8e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Franck\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ceb09eed27195052bd2406731b8d7a5b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Franck\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ceb09eed27195052bd2406731b8d7a5b\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:1792-1821
+	android:minSdkVersion
+		ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:1765-1791
+supports-screens
+ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:1823-1982
+	android:largeScreens
+		ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:1898-1925
+	android:smallScreens
+		ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:1841-1868
+	android:normalScreens
+		ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:1869-1897
+	android:xlargeScreens
+		ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:1926-1954
+	android:anyDensity
+		ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:1955-1980
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:1982-2057
+	android:name
+		ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:1999-2055
+uses-feature#android.hardware.telephony
+ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:2057-2138
+	android:required
+		ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:2113-2136
+	android:name
+		ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:2071-2112
+uses-feature#android.hardware.touchscreen
+ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:2138-2221
+	android:required
+		ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:2196-2219
+	android:name
+		ADDED from C:\Mes Projets Mobile\Facturation\Android\Gen\AndroidManifest.xml:2:2152-2195
